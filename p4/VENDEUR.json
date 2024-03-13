@@ -1,0 +1,352 @@
+[
+    {
+        "Prenom": "Benjamin",
+        "id_vendeur": 1,
+        "sexe": "Femme",
+        "telephone": "77-176-61-53",
+        "Nom": "Fillmore"
+    },
+    {
+        "Prenom": "Warren",
+        "id_vendeur": 2,
+        "sexe": "Femme",
+        "telephone": "76-160-27-40",
+        "Nom": "Jefferson"
+    },
+    {
+        "Prenom": "Woodrow",
+        "id_vendeur": 3,
+        "sexe": "Homme",
+        "telephone": "78-551-07-60",
+        "Nom": "Ford"
+    },
+    {
+        "Prenom": "George",
+        "id_vendeur": 4,
+        "sexe": "Homme",
+        "telephone": "77-468-77-82",
+        "Nom": "Jackson"
+    },
+    {
+        "Prenom": "Lyndon",
+        "id_vendeur": 5,
+        "sexe": "Femme",
+        "telephone": "76-516-32-97",
+        "Nom": "Tyler"
+    },
+    {
+        "Prenom": "Theodore",
+        "id_vendeur": 6,
+        "sexe": "Homme",
+        "telephone": "77-187-20-09",
+        "Nom": "Van Buren"
+    },
+    {
+        "Prenom": "Franklin",
+        "id_vendeur": 7,
+        "sexe": "Femme",
+        "telephone": "76-307-41-36",
+        "Nom": "Jefferson"
+    },
+    {
+        "Prenom": "Ulysses",
+        "id_vendeur": 8,
+        "sexe": "Homme",
+        "telephone": "77-280-40-18",
+        "Nom": "Johnson"
+    },
+    {
+        "Prenom": "Richard",
+        "id_vendeur": 9,
+        "sexe": "Femme",
+        "telephone": "78-577-76-98",
+        "Nom": "Roosevelt"
+    },
+    {
+        "Prenom": "William",
+        "id_vendeur": 10,
+        "sexe": "Homme",
+        "telephone": "77-525-60-74",
+        "Nom": "Jackson"
+    },
+    {
+        "Prenom": "Calvin",
+        "id_vendeur": 11,
+        "sexe": "Femme",
+        "telephone": "78-310-33-95",
+        "Nom": "Eisenhower"
+    },
+    {
+        "Prenom": "George",
+        "id_vendeur": 12,
+        "sexe": "Femme",
+        "telephone": "77-090-14-96",
+        "Nom": "Carter"
+    },
+    {
+        "Prenom": "Millard",
+        "id_vendeur": 13,
+        "sexe": "Homme",
+        "telephone": "77-588-46-19",
+        "Nom": "Quincy"
+    },
+    {
+        "Prenom": "Millard",
+        "id_vendeur": 14,
+        "sexe": "Femme",
+        "telephone": "78-350-67-02",
+        "Nom": "Coolidge"
+    },
+    {
+        "Prenom": "Richard",
+        "id_vendeur": 15,
+        "sexe": "Homme",
+        "telephone": "77-379-46-55",
+        "Nom": "Roosevelt"
+    },
+    {
+        "Prenom": "Dwight",
+        "id_vendeur": 16,
+        "sexe": "Homme",
+        "telephone": "77-208-29-41",
+        "Nom": "Truman"
+    },
+    {
+        "Prenom": "Millard",
+        "id_vendeur": 17,
+        "sexe": "Femme",
+        "telephone": "77-588-06-65",
+        "Nom": "Madison"
+    },
+    {
+        "Prenom": "Calvin",
+        "id_vendeur": 18,
+        "sexe": "Homme",
+        "telephone": "78-534-91-97",
+        "Nom": "Johnson"
+    },
+    {
+        "Prenom": "Franklin",
+        "id_vendeur": 19,
+        "sexe": "Homme",
+        "telephone": "77-319-72-09",
+        "Nom": "Johnson"
+    },
+    {
+        "Prenom": "Ulysses",
+        "id_vendeur": 20,
+        "sexe": "Femme",
+        "telephone": "76-759-67-33",
+        "Nom": "Hoover"
+    },
+    {
+        "Prenom": "Dwight",
+        "id_vendeur": 21,
+        "sexe": "Homme",
+        "telephone": "77-715-58-56",
+        "Nom": "Harding"
+    },
+    {
+        "Prenom": "William",
+        "id_vendeur": 22,
+        "sexe": "Homme",
+        "telephone": "76-754-16-39",
+        "Nom": "Eisenhower"
+    },
+    {
+        "Prenom": "Andrew",
+        "id_vendeur": 23,
+        "sexe": "Femme",
+        "telephone": "77-279-70-86",
+        "Nom": "Grant"
+    },
+    {
+        "Prenom": "Dwight",
+        "id_vendeur": 24,
+        "sexe": "Femme",
+        "telephone": "77-064-99-52",
+        "Nom": "Nixon"
+    },
+    {
+        "Prenom": "Richard",
+        "id_vendeur": 25,
+        "sexe": "Femme",
+        "telephone": "76-428-79-51",
+        "Nom": "Roosevelt"
+    },
+    {
+        "Prenom": "William",
+        "id_vendeur": 26,
+        "sexe": "Femme",
+        "telephone": "76-388-03-43",
+        "Nom": "Polk"
+    },
+    {
+        "Prenom": "Jimmy",
+        "id_vendeur": 27,
+        "sexe": "Homme",
+        "telephone": "77-423-86-72",
+        "Nom": "Polk"
+    },
+    {
+        "Prenom": "John",
+        "id_vendeur": 28,
+        "sexe": "Femme",
+        "telephone": "76-104-83-63",
+        "Nom": "Clinton"
+    },
+    {
+        "Prenom": "Lyndon",
+        "id_vendeur": 29,
+        "sexe": "Homme",
+        "telephone": "77-373-63-98",
+        "Nom": "Jackson"
+    },
+    {
+        "Prenom": "Dwight",
+        "id_vendeur": 30,
+        "sexe": "Homme",
+        "telephone": "77-322-06-79",
+        "Nom": "Hayes"
+    },
+    {
+        "Prenom": "Abraham",
+        "id_vendeur": 31,
+        "sexe": "Homme",
+        "telephone": "76-463-96-57",
+        "Nom": "Pierce"
+    },
+    {
+        "Prenom": "Jimmy",
+        "id_vendeur": 32,
+        "sexe": "Femme",
+        "telephone": "78-468-56-88",
+        "Nom": "Buchanan"
+    },
+    {
+        "Prenom": "Gerald",
+        "id_vendeur": 33,
+        "sexe": "Femme",
+        "telephone": "76-044-38-72",
+        "Nom": "Harrison"
+    },
+    {
+        "Prenom": "Thomas",
+        "id_vendeur": 34,
+        "sexe": "Femme",
+        "telephone": "76-135-41-94",
+        "Nom": "Jefferson"
+    },
+    {
+        "Prenom": "Herbert",
+        "id_vendeur": 35,
+        "sexe": "Homme",
+        "telephone": "78-230-46-79",
+        "Nom": "Lincoln"
+    },
+    {
+        "Prenom": "Ulysses",
+        "id_vendeur": 36,
+        "sexe": "Homme",
+        "telephone": "77-827-89-90",
+        "Nom": "Adams"
+    },
+    {
+        "Prenom": "George",
+        "id_vendeur": 37,
+        "sexe": "Femme",
+        "telephone": "78-406-75-09",
+        "Nom": "Pierce"
+    },
+    {
+        "Prenom": "Dwight",
+        "id_vendeur": 38,
+        "sexe": "Homme",
+        "telephone": "78-368-00-68",
+        "Nom": "Harding"
+    },
+    {
+        "Prenom": "Grover",
+        "id_vendeur": 39,
+        "sexe": "Homme",
+        "telephone": "76-081-43-35",
+        "Nom": "Pierce"
+    },
+    {
+        "Prenom": "Rutherford",
+        "id_vendeur": 40,
+        "sexe": "Homme",
+        "telephone": "77-918-16-79",
+        "Nom": "Clinton"
+    },
+    {
+        "Prenom": "Warren",
+        "id_vendeur": 41,
+        "sexe": "Homme",
+        "telephone": "76-202-49-65",
+        "Nom": "Quincy"
+    },
+    {
+        "Prenom": "Andrew",
+        "id_vendeur": 42,
+        "sexe": "Homme",
+        "telephone": "76-466-13-16",
+        "Nom": "Polk"
+    },
+    {
+        "Prenom": "Gerald",
+        "id_vendeur": 43,
+        "sexe": "Femme",
+        "telephone": "77-621-80-30",
+        "Nom": "Washington"
+    },
+    {
+        "Prenom": "Zachary",
+        "id_vendeur": 44,
+        "sexe": "Homme",
+        "telephone": "77-244-00-51",
+        "Nom": "Johnson"
+    },
+    {
+        "Prenom": "Ulysses",
+        "id_vendeur": 45,
+        "sexe": "Femme",
+        "telephone": "77-699-05-13",
+        "Nom": "Cleveland"
+    },
+    {
+        "Prenom": "Martin",
+        "id_vendeur": 46,
+        "sexe": "Homme",
+        "telephone": "77-751-34-60",
+        "Nom": "Kennedy"
+    },
+    {
+        "Prenom": "Harry",
+        "id_vendeur": 47,
+        "sexe": "Homme",
+        "telephone": "78-949-64-23",
+        "Nom": "Roosevelt"
+    },
+    {
+        "Prenom": "Ulysses",
+        "id_vendeur": 48,
+        "sexe": "Homme",
+        "telephone": "77-171-20-45",
+        "Nom": "Fillmore"
+    },
+    {
+        "Prenom": "Harry",
+        "id_vendeur": 49,
+        "sexe": "Femme",
+        "telephone": "77-254-83-60",
+        "Nom": "Coolidge"
+    },
+    {
+        "Prenom": "George",
+        "id_vendeur": 50,
+        "sexe": "Femme",
+        "telephone": "76-294-02-50",
+        "Nom": "Fillmore"
+    }
+]

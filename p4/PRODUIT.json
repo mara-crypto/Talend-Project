@@ -1,0 +1,302 @@
+[
+    {
+        "designation": "Ordinateur portable Dell XPS 15",
+        "id_produit": 1,
+        "prix_unitaire": 285
+    },
+    {
+        "designation": "Téléviseur Samsung QLED 4K",
+        "id_produit": 2,
+        "prix_unitaire": 258
+    },
+    {
+        "designation": "Appareil photo Canon EOS 5D Mark IV",
+        "id_produit": 3,
+        "prix_unitaire": 282
+    },
+    {
+        "designation": "Réfrigérateur LG Inverter",
+        "id_produit": 4,
+        "prix_unitaire": 234
+    },
+    {
+        "designation": "Machine à laver Whirlpool Front Load",
+        "id_produit": 5,
+        "prix_unitaire": 234
+    },
+    {
+        "designation": "Tablette Samsung Galaxy Tab S7",
+        "id_produit": 6,
+        "prix_unitaire": 468
+    },
+    {
+        "designation": "Aspirateur robot iRobot Roomba",
+        "id_produit": 7,
+        "prix_unitaire": 260
+    },
+    {
+        "designation": "Console de jeux Sony PlayStation 5",
+        "id_produit": 8,
+        "prix_unitaire": 436
+    },
+    {
+        "designation": "Enceinte Bluetooth JBL Charge 5",
+        "id_produit": 9,
+        "prix_unitaire": 590
+    },
+    {
+        "designation": "Montre Apple Watch Series 7",
+        "id_produit": 10,
+        "prix_unitaire": 466
+    },
+    {
+        "designation": "Vélo électrique Trek Domane+",
+        "id_produit": 11,
+        "prix_unitaire": 403
+    },
+    {
+        "designation": "Imprimante HP LaserJet Pro",
+        "id_produit": 12,
+        "prix_unitaire": 568
+    },
+    {
+        "designation": "Four à micro-ondes Panasonic",
+        "id_produit": 13,
+        "prix_unitaire": 588
+    },
+    {
+        "designation": "Casque audio Bose QuietComfort 35 II",
+        "id_produit": 14,
+        "prix_unitaire": 581
+    },
+    {
+        "designation": "Trottinette électrique Xiaomi Mi Electric Scooter",
+        "id_produit": 15,
+        "prix_unitaire": 364
+    },
+    {
+        "designation": "Perceuse sans fil DeWalt",
+        "id_produit": 16,
+        "prix_unitaire": 589
+    },
+    {
+        "designation": "Grille-pain KitchenAid",
+        "id_produit": 17,
+        "prix_unitaire": 557
+    },
+    {
+        "designation": "Table de ping-pong Cornilleau Sport 250S",
+        "id_produit": 18,
+        "prix_unitaire": 370
+    },
+    {
+        "designation": "Moniteur LG UltraWide",
+        "id_produit": 19,
+        "prix_unitaire": 314
+    },
+    {
+        "designation": "Blender Vitamix",
+        "id_produit": 20,
+        "prix_unitaire": 200
+    },
+    {
+        "designation": "Sac à dos Osprey Atmos AG 65",
+        "id_produit": 21,
+        "prix_unitaire": 213
+    },
+    {
+        "designation": "Tondeuse à gazon Honda HRX217VKA",
+        "id_produit": 22,
+        "prix_unitaire": 489
+    },
+    {
+        "designation": "Chaussures de course Nike Air Zoom Pegasus",
+        "id_produit": 23,
+        "prix_unitaire": 533
+    },
+    {
+        "designation": "Enceinte intelligente Amazon Echo Dot",
+        "id_produit": 24,
+        "prix_unitaire": 415
+    },
+    {
+        "designation": "Canapé d'angle IKEA Ektorp",
+        "id_produit": 25,
+        "prix_unitaire": 206
+    },
+    {
+        "designation": "Vélo de montagne Specialized Stumpjumper",
+        "id_produit": 26,
+        "prix_unitaire": 492
+    },
+    {
+        "designation": "Table de billard Brunswick Contender",
+        "id_produit": 27,
+        "prix_unitaire": 542
+    },
+    {
+        "designation": "Appareil photo instantané Fujifilm Instax Mini 11",
+        "id_produit": 28,
+        "prix_unitaire": 482
+    },
+    {
+        "designation": "Mixer à main KitchenAid",
+        "id_produit": 29,
+        "prix_unitaire": 241
+    },
+    {
+        "designation": "Bouilloire électrique Breville",
+        "id_produit": 30,
+        "prix_unitaire": 462
+    },
+    {
+        "designation": "Tapis de yoga Liforme",
+        "id_produit": 31,
+        "prix_unitaire": 220
+    },
+    {
+        "designation": "Fer à repasser Rowenta Steamforce",
+        "id_produit": 32,
+        "prix_unitaire": 434
+    },
+    {
+        "designation": "Guitare acoustique Martin D-28",
+        "id_produit": 33,
+        "prix_unitaire": 437
+    },
+    {
+        "designation": "Appareil de fitness Peloton Bike",
+        "id_produit": 34,
+        "prix_unitaire": 474
+    },
+    {
+        "designation": "Tondeuse à barbe Philips Norelco",
+        "id_produit": 35,
+        "prix_unitaire": 383
+    },
+    {
+        "designation": "Valise Samsonite Winfield 3",
+        "id_produit": 36,
+        "prix_unitaire": 470
+    },
+    {
+        "designation": "Machine à expresso Breville Barista Touch",
+        "id_produit": 37,
+        "prix_unitaire": 375
+    },
+    {
+        "designation": "Plaque chauffante Cuisinart",
+        "id_produit": 38,
+        "prix_unitaire": 500
+    },
+    {
+        "designation": "Raquette de tennis Wilson Pro Staff",
+        "id_produit": 39,
+        "prix_unitaire": 468
+    },
+    {
+        "designation": "Canne à pêche Shimano Stradic",
+        "id_produit": 40,
+        "prix_unitaire": 230
+    },
+    {
+        "designation": "Bateau gonflable Intex Excursion",
+        "id_produit": 41,
+        "prix_unitaire": 346
+    },
+    {
+        "designation": "Appareil photo numérique Olympus OM-D E-M10 Mark IV",
+        "id_produit": 42,
+        "prix_unitaire": 209
+    },
+    {
+        "designation": "Four à convection Breville Smart Oven",
+        "id_produit": 43,
+        "prix_unitaire": 298
+    },
+    {
+        "designation": "Casque de réalité virtuelle Oculus Quest 2",
+        "id_produit": 44,
+        "prix_unitaire": 441
+    },
+    {
+        "designation": "Réfrigérateur à vin Kalamera",
+        "id_produit": 45,
+        "prix_unitaire": 589
+    },
+    {
+        "designation": "Détecteur de mouvement Arlo",
+        "id_produit": 46,
+        "prix_unitaire": 582
+    },
+    {
+        "designation": "Guitare électrique Fender Stratocaster",
+        "id_produit": 47,
+        "prix_unitaire": 506
+    },
+    {
+        "designation": "Machine à coudre Brother CS6000i",
+        "id_produit": 48,
+        "prix_unitaire": 228
+    },
+    {
+        "designation": "Enregistreur audio Zoom H6",
+        "id_produit": 49,
+        "prix_unitaire": 529
+    },
+    {
+        "designation": "Tondeuse à cheveux Wahl Elite Pro",
+        "id_produit": 50,
+        "prix_unitaire": 506
+    },
+    {
+        "designation": "Vélo elliptique Sole E35",
+        "id_produit": 51,
+        "prix_unitaire": 465
+    },
+    {
+        "designation": "Haut-parleurs Sonos One",
+        "id_produit": 52,
+        "prix_unitaire": 468
+    },
+    {
+        "designation": "Téléobjectif Nikon AF-S NIKKOR 70-200mm",
+        "id_produit": 53,
+        "prix_unitaire": 556
+    },
+    {
+        "designation": "Télévision TCL 4K Roku TV",
+        "id_produit": 54,
+        "prix_unitaire": 395
+    },
+    {
+        "designation": "Stand mixer Smeg",
+        "id_produit": 55,
+        "prix_unitaire": 273
+    },
+    {
+        "designation": "Table de baby-foot Garlando G-500",
+        "id_produit": 56,
+        "prix_unitaire": 509
+    },
+    {
+        "designation": "Coffre-fort SentrySafe",
+        "id_produit": 57,
+        "prix_unitaire": 236
+    },
+    {
+        "designation": "Porte-bébé Ergobaby Omni 360",
+        "id_produit": 58,
+        "prix_unitaire": 243
+    },
+    {
+        "designation": "Paddleboard gonflable iRocker Cruiser",
+        "id_produit": 59,
+        "prix_unitaire": 379
+    },
+    {
+        "designation": "Smartphone Apple iPhone 13",
+        "id_produit": 60,
+        "prix_unitaire": 565
+    }
+]
